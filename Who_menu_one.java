@@ -21,8 +21,8 @@ public class Who_menu_one extends AppCompatActivity {
         setContentView(R.layout.activity_who_second);
 
         final EditText edittext=(EditText)findViewById(R.id.Eedittext1);
-        //final EditText edittext1=(EditText)findViewById(R.id.Eedittext2);
-        //Button button=(Button)findViewById(R.id.Einsert1);
+        final EditText edittext1=(EditText)findViewById(R.id.Eedittext2);
+        Button button=(Button)findViewById(R.id.Einsert1);
 
         //final TextView textView=(TextView)findViewById(R.id.Eoutput1);
         //final TextView textView1=(TextView)findViewById(R.id.Eoutput2);
