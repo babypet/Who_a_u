@@ -31,7 +31,7 @@ public class Who_second extends AppCompatActivity {
             public void onClick(View v) {
 
                 String str = edittext.getText().toString();
-                //이미지를 비트맵 객체로 만들기
+                //이미지를 비트맵 객체로 만들기 기기기
                 Bitmap bitmap = BitmapFactory.decodeResource(getResources(),R.id.Rbutton1);
 
                 //다른 엑티비티를 호출하기 위한 인텐트 생성하기.
