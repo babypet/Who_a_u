@@ -41,4 +41,3 @@ public class Who_a_u extends AppCompatActivity {
         );
     }
 }
-//2
